@@ -19,7 +19,7 @@ Python · Kali Linux · Burp Suite · Wireshark · Git
 Completing the Arrowstack Cyber Security internship and building a bug bounty and security-report portfolio.
 
 ## Connect
-[https://linkedin.com/in/ishaan-kumar-giri-rgb)
+[LinkedIn](https://www.linkedin.com/in/ishaan-kumar-giri-10a68417)
 
 *All testing is done only on my own labs or in scope of authorized programs.*
 

@@ -11,7 +11,7 @@ Cyber security student in India. I learn by building and documenting small, prac
 - [crypto-suite-aes-rsa-sha256](https://github.com/ishaankumar11-rgb/crypto-suite-aes-rsa-sha256): Python CLI for AES-256-GCM, RSA-3072 and SHA-256, with tests
 - [wireshark-traffic-analysis](https://github.com/ishaankumar11-rgb/wireshark-traffic-analysis): packet analysis report with evidence (DNS, ICMP, TCP, HTTP)
 - [defensive-security-scripts](https://github.com/ishaankumar11-rgb/defensive-security-scripts): Python scripts for network auditing and learning
-
+- [juice-shop-security-audit](https://github.com/ishaankumar11-rgb/juice-shop-security-audit): web security assessment with 4 documented findings, evidence and fixes
 ## Tools
 Python · Kali Linux · Burp Suite · Wireshark · Git
 

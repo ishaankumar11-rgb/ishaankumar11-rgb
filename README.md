@@ -1,4 +1,4 @@
-# Hi, I'm Ishaan 👋
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=2F81F7&width=600&lines=Hi,+I'm+Ishaan+Kumar+Giri+%F0%9F%91%8B;Web+%26+API+Security+Tester;Kali+Linux+%7C+Burp+Suite+%7C+Python;Open+to+freelance+%2F+remote+work)
 
 Work in Cyber security/Freelancer. I learn by building and documenting small, practical security projects.
 

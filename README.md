@@ -13,7 +13,13 @@ Work in Cyber security. I learn by building and documenting small, practical sec
 - [defensive-security-scripts](https://github.com/ishaankumar11-rgb/defensive-security-scripts): Python scripts for network auditing and learning
 - [juice-shop-security-audit](https://github.com/ishaankumar11-rgb/juice-shop-security-audit): web security assessment with 4 documented findings, evidence and fixes
 ## Tools
-Python · Kali Linux · Burp Suite · Wireshark · Git
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux">
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite">
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</p>
 
 ## Currently
 Completing the Arrowstack Cyber Security internship and building a bug bounty and security-report portfolio.
@@ -34,7 +40,6 @@ Completing the Arrowstack Cyber Security internship and building a bug bounty an
 
 _All testing is done only on my own labs or in scope of authorized programs._
 
-*All testing is done only on my own labs or in scope of authorized programs.*
 
 <!--
 **ishaankumar11-rgb/ishaankumar11-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

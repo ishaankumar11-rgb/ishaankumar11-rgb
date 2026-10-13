@@ -20,31 +20,13 @@ Completing the Arrowstack Cyber Security internship and building a bug bounty an
 
 ## 🌐 Connect with me
 
-[
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-
-](https://www.linkedin.com/in/ishaan-kumar-giri-10a68417)
-[
-
-![Intigriti](https://img.shields.io/badge/Intigriti-161A36?style=for-the-badge)
-
-](https://app.intigriti.com/researcher/profile/ishaan_kumar11)
-[
-
-![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)
-
-](आपका-HackerOne-link)
-[
-
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
-
-](https://tryhackme.com/p/ishaan.kumar11)
-[
-
-![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
-](mailto:ishaan.kumar11@gmail.com)
+<p>
+<a href="https://www.linkedin.com/in/ishaan-kumar-giri-10a68417"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://app.intigriti.com/researcher/profile/ishaan_kumar11"><img src="https://img.shields.io/badge/Intigriti-161A36?style=for-the-badge" alt="Intigriti"></a>
+<a href="https://hackerone.com/ishaankumar_rgb"><img src="https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white" alt="HackerOne"></a>
+<a href="https://tryhackme.com/p/ishaan.kumar11"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"></a>
+<a href="mailto:ishaan.kumar11@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 ## Certifications
 

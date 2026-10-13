@@ -19,7 +19,23 @@ Python · Kali Linux · Burp Suite · Wireshark · Git
 Completing the Arrowstack Cyber Security internship and building a bug bounty and security-report portfolio.
 
 ## Connect
-[LinkedIn](https://www.linkedin.com/in/ishaan-kumar-giri-10a68417)
+## Open to work
+
+Open to **freelance / remote web & API security testing**, vulnerability assessment, and security report writing.
+
+## Profiles
+
+- 🐞 Intigriti: [ishaan_kumar11](https://app.intigriti.com/researcher/profile/ishaan_kumar11)
+- 🎯 HackerOne: [(ishaankumar_rgb](https://hackerone.com/your-username)
+- 🧪 TryHackMe: [ishaan.kumar11](https://tryhackme.com/p/ishaan.kumar11)
+- 💼 LinkedIn: [Ishaan Kumar Giri](https://www.linkedin.com/in/ishaan-kumar-giri-10a68417)
+- 📧 ishaan.kumar11@gmail.com
+
+## Certifications
+
+- ISACA Cyber Security Technical Foundations (CSX-T), Nov 2024
+
+_All testing is done only on my own labs or in scope of authorized programs._
 
 *All testing is done only on my own labs or in scope of authorized programs.*
 

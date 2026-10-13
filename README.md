@@ -18,18 +18,33 @@ Python · Kali Linux · Burp Suite · Wireshark · Git
 ## Currently
 Completing the Arrowstack Cyber Security internship and building a bug bounty and security-report portfolio.
 
-## Connect
-## Open to work
+## 🌐 Connect with me
 
-Open to **freelance / remote web & API security testing**, vulnerability assessment, and security report writing.
+[
 
-## Profiles
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 
-- 🐞 Intigriti: [ishaan_kumar11](https://app.intigriti.com/researcher/profile/ishaan_kumar11)
-- 🎯 HackerOne: [(ishaankumar_rgb](https://hackerone.com/your-username)
-- 🧪 TryHackMe: [ishaan.kumar11](https://tryhackme.com/p/ishaan.kumar11)
-- 💼 LinkedIn: [Ishaan Kumar Giri](https://www.linkedin.com/in/ishaan-kumar-giri-10a68417)
-- 📧 ishaan.kumar11@gmail.com
+](https://www.linkedin.com/in/ishaan-kumar-giri-10a68417)
+[
+
+![Intigriti](https://img.shields.io/badge/Intigriti-161A36?style=for-the-badge)
+
+](https://app.intigriti.com/researcher/profile/ishaan_kumar11)
+[
+
+![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)
+
+](आपका-HackerOne-link)
+[
+
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+
+](https://tryhackme.com/p/ishaan.kumar11)
+[
+
+![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+](mailto:ishaan.kumar11@gmail.com)
 
 ## Certifications
 

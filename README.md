@@ -1,6 +1,6 @@
 # Hi, I'm Ishaan 👋
 
-Work in Cyber security. I learn by building and documenting small, practical security projects.
+Work in Cyber security/Freelancer. I learn by building and documenting small, practical security projects.
 
 ## What I work on
 - Web and API security, bug bounty practice (authorized programs only)

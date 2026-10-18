@@ -38,10 +38,7 @@ Completing the Arrowstack Cyber Security internship, practising web security on 
 <a href="mailto:ishaan.kumar11@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-## Certifications
 
-- ISACA Cyber Security Technical Foundations (CSX-T), Nov 2024
-- 🎓 Cisco Networking Academy – Ethical Hacker (Oct 2026) | 🔍 Learning web security & bug bounty via PortSwigger Web Security Academy
 
 _All testing is done only on my own labs or in scope of authorized programs._
 

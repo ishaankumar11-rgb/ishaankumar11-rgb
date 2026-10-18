@@ -22,7 +22,11 @@ Work in Cyber security/Freelancer. I learn by building and documenting small, pr
 </p>
 
 ## Currently
-Completing the Arrowstack Cyber Security internship and building a bug bounty and security-report portfolio.
+Completing the Arrowstack Cyber Security internship, practising web security on PortSwigger Web Security Academy, and building a bug bounty and security-report portfolio.
+
+## Certifications
+- ISACA Cyber Security Technical Foundations (CSX-T), Nov 2024
+- Cisco Networking Academy – Ethical Hacker, Oct 2026 ([Verify](https://www.credly.com/badges/ae245a60-d17a-470a-bde7-7e218b387bcf/public_url))
 
 ## 🌐 Connect with me
 

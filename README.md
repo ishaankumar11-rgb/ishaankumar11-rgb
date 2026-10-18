@@ -39,7 +39,7 @@ Completing the Arrowstack Cyber Security internship and building a bug bounty an
 - ISACA Cyber Security Technical Foundations (CSX-T), Nov 2024
 
 _All testing is done only on my own labs or in scope of authorized programs._
-
+🎓 Cisco Networking Academy – Ethical Hacker (Oct 2026) | 🔍 Learning web security & bug bounty via PortSwigger Web Security Academy
 
 <!--
 **ishaankumar11-rgb/ishaankumar11-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
